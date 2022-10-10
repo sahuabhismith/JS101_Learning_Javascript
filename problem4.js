@@ -1,0 +1,16 @@
+let name = "ABHISMITH SAHU";
+let school ="kendriya vidyalaya";
+let grade = "A";
+let section = "A";
+let rollnumber = 30;
+let math_mark = 90;
+let english_mark = 92;
+let science_mark = 95;
+console.log("Name        :",name);
+console.log("School Name :",school);
+console.log("Grade       :",grade);
+console.log("Section     :",section);
+console.log("Rollnumber  :",rollnumber);
+console.log("Math_mark   :",math_mark);
+console.log("English_mark:",english_mark);
+console.log("Science_mark:",science_mark);
